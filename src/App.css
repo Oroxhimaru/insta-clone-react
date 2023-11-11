@@ -3,7 +3,6 @@
 }
 .app {
   background-color: #fafafa;
-  height: 100vh;
 }
 
 .app_header {
@@ -12,3 +11,4 @@
   border-bottom: 1px solid lightgray;
   object-fit: contain;
 }
+
